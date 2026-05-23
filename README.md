@@ -1,2 +1,4 @@
 # practice-demo
-Learnign stuff for git 
+Learning stuff for git 
+Author - Rishabh Raj exceptionally known as Ri_Rii
+
